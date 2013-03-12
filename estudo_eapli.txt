@@ -1,3 +1,4 @@
 Controlo de versoes usando git
 OpenUp
-Conflito0Beta
+Conflito0
+Beta
